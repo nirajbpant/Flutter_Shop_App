@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         primaryColor: Colors.purple,
         accentColor: Colors.deepOrange,
+        fontFamily: 'Lato',
       ),
       home: ProductOverviewScreen(),
     );
